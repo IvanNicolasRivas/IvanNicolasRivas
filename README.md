@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Ivan Nicolas Rivas Castillo
 
-<!--
-**IvanNicolasRivas/IvanNicolasRivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador **Full Stack** enfocado en construir herramientas que funcionen bien y faciliten el trabajo de las personas. Mi enfoque principal es unir el desarrollo técnico con un diseño funcional que mejore la experiencia del usuario.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Lo que estoy haciendo ahora
+
+* **Translunikair (Actual):** Mejorando la arquitectura del backend en Laravel para simplificar procesos complejos. Mi meta es reducir la carga de tareas del usuario y modernizar la interfaz para que sea más intuitiva.
+* **Hitway (2024-2025):** Gestión técnica de e-commerce en Shopify. Me encargué de la integración de inventarios mediante APIs y el desarrollo de landing pages optimizadas.
+
+---
+
+### 🛠️ Herramientas y Tecnologías
+
+* **Lenguajes & Frameworks:** Python (Django), PHP (Laravel), JavaScript (React, Node.js, Next.js).
+* **Web & CMS:** WordPress, Shopify (Gestión de APIs y plantillas).
+* **Bases de Datos:** MongoDB, MySQL.
+* **Diseño & UX:** Figma (Maquetación y prototipado), principios de usabilidad aplicados al código.
+
+---
+
+### 🔭 Enfoque de trabajo
+
+No solo escribo código; trato de entender el problema del negocio para crear la solución más sencilla posible. Me interesa la **automatización**, la **integración de sistemas** y el **diseño centrado en el usuario**.
+
+---
+
+### 📫 Contacto
+* [LinkedIn](https://www.linkedin.com/in/ivan-nicolas-rivas-castillo-nieve/)
+* [Portafolio / Web](https://translunikair.cl/) (Proyecto actual)
+* 📍 Ubicación: Chile (GMT-3)
