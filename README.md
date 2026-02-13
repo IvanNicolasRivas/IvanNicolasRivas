@@ -29,4 +29,4 @@ No solo escribo código; trato de entender el problema del negocio para crear la
 ### 📫 Contacto
 * [LinkedIn](https://www.linkedin.com/in/ivan-nicolas-rivas-castillo-nieve/)
 * [Portafolio / Web](https://translunikair.cl/) (Proyecto actual)
-* 📍 Ubicación: Chile (GMT-3)
+📍 Ubicación: Chile (GMT-3)
