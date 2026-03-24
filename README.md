@@ -6,7 +6,7 @@ Soy un desarrollador **Full Stack** enfocado en construir herramientas que funci
 
 ### 🚀 Lo que estoy haciendo ahora
 
-* **Translunikair (Actual):** Mejorando la arquitectura del backend en Laravel para simplificar procesos complejos. Mi meta es reducir la carga de tareas del usuario y modernizar la interfaz para que sea más intuitiva.
+* **Translunikair (Actual):** Mejorando la arquitectura del backend para simplificar procesos complejos. Mi meta es reducir la carga de tareas del usuario y modernizar la interfaz para que sea más intuitiva.
 * **Hitway (2024-2025):** Gestión técnica de e-commerce en Shopify. Me encargué de la integración de inventarios mediante APIs y el desarrollo de landing pages optimizadas.
 
 ---
