@@ -15,8 +15,8 @@ Soy un desarrollador **Full Stack** enfocado en construir herramientas que funci
 
 * **Lenguajes & Frameworks:** Python (Django), PHP (Laravel), JavaScript (React, Node.js, Next.js).
 * **Web & CMS:** WordPress, Shopify (Gestión de APIs y plantillas).
-* **Bases de Datos:** MongoDB, MySQL.
-* **Diseño & UX:** Figma (Maquetación y prototipado), principios de usabilidad aplicados al código.
+* **Bases de Datos:** PostgreeSQL, MongoDB, MySQL.
+* **CI/CD:** Vercel, Railway.
 
 ---
 
